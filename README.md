@@ -12,11 +12,11 @@ if *Home-Autmation-2.0* detects the fire then it *sounds the  alarm and send the
 6. Battries
 7. Buzzer
 8. Push Button
-9.HC-05 bluetooth Module
-10.Relays
-11.jumper wires
-12.ELectrical Appliences 
-13.Buetooth Terminal HC-05 App
+9. HC-05 bluetooth Module
+10. Relays
+11. jumper wires
+12. ELectrical Appliences 
+13. Buetooth Terminal HC-05 App
 
 # setup
 - very easy just fork the code 
