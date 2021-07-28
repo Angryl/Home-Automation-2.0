@@ -19,5 +19,8 @@ if *Home-Autmation-2.0* detects the fire then it *sounds the  alarm and send the
 13.Buetooth Terminal HC-05 App
 
 # setup
-very easy just download the code and load it in the arduino uno and power up the board your fire alarm system will be online.
-
+- very easy just fork the code 
+- copy and load it in the arduino software
+  - just change the contact details for the _SMS_ Alert
+- write it on Aurdino Uno 
+- power up the board your IOT system will be online
