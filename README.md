@@ -24,3 +24,5 @@ if *Home-Autmation-2.0* detects the fire then it *sounds the  alarm and send the
   - just change the contact details for the _SMS_ Alert
 - write it on Aurdino Uno 
 - power up the board your IOT system will be online
+- connect it via app 
+- start controlling application
